@@ -1,0 +1,241 @@
+#EXTM3U
+
+# ====== KANALET SATELIT ======
+#EXTINF:-1 group-title="KANALET SATELIT",RTP24 HD
+http://Iptv.github/rtp24-hd.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",RTK 1
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/index.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",RTK 2
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk2/index.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",KLAN KOSOVA
+http://stream.klankosova.tv/klankosova.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",KOHAVISION
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/index.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",RTV21
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/index.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",ATV
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/0nj-g63-92x-few/index.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",T7
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",TEVE 1
+http://stream.teve1.tv/teve1.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",SYRI TV
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",KANAL 10
+http://stream.kanal10.tv/kanal10.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",TV PRIZRENI
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/index.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",RTK 3
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",RTK 4
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk4/index.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",RTK SATELIT
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",ARTA HD
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",EURONEWS
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",A2 CNN
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2h7-5bc-xym-0k2/index.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",ZICO TV
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",PRO 1
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/nng-gki-l1j-n1z/index.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",RTV BESA HD
+https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/ehn-g2o-v7w-nh4/index.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",ISTOGU CHANNEL
+http://stream.istoguchannel.tv/istogu.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",TV NEWS
+https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/js0-h8f-ifx-29f/index.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",ZERI TV
+https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/jo8-76n-lmx-tv0/index.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",ORA NEWS
+http://stream.oranews.tv/oranews.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",ORA TV
+http://stream.oratv.tv/oratv.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",TOP CHANNEL
+http://stream.top-channel.tv/topchannel.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",TV DIIELLI
+http://stream.tvdielli.com:8081/dielli/index.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",TV OPOJA
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",RTSH 1
+http://stream.rtsh.al/rtsh1.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",RTSH 2
+http://stream.rtsh.al/rtsh2.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",RTSH 3
+http://stream.rtsh.al/rtsh3.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",RTSH 4
+http://stream.rtsh.al/rtsh4.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",Tring Shqip
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/1168.ts
+#EXTINF:-1 group-title="KANALET SATELIT",Tring Smile
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/1124.ts
+#EXTINF:-1 group-title="KANALET SATELIT",Tring Jolly HD
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/956.ts
+#EXTINF:-1 group-title="KANALET SATELIT",Tring Super
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/1174.ts
+#EXTINF:-1 group-title="KANALET SATELIT",Tring Max
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/1166.ts
+#EXTINF:-1 group-title="KANALET SATELIT",Tring Fantasy
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/1164.ts
+#EXTINF:-1 group-title="KANALET SATELIT",Tring Life
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/1165.ts
+#EXTINF:-1 group-title="KANALET SATELIT",Tring Comedy
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/1163.ts
+#EXTINF:-1 group-title="KANALET SATELIT",Tring 3+
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/827.ts
+#EXTINF:-1 group-title="KANALET SATELIT",Digitalb
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/830.ts
+#EXTINF:-1 group-title="KANALET SATELIT",Film Hits
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/937.ts
+#EXTINF:-1 group-title="KANALET SATELIT",Film Komedi
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/938.ts
+#EXTINF:-1 group-title="KANALET SATELIT",Film Aksion
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/929.ts
+#EXTINF:-1 group-title="KANALET SATELIT",Film Thriller
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/941.ts
+#EXTINF:-1 group-title="KANALET SATELIT",Film Dram
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/931.ts
+#EXTINF:-1 group-title="KANALET SATELIT",FILM NJ UHD
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/3606.ts
+#EXTINF:-1 group-title="KANALET SATELIT",FILM NJ HD
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/939.ts
+#EXTINF:-1 group-title="KANALET SATELIT",FILM DY UHD
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/3607.ts
+#EXTINF:-1 group-title="KANALET SATELIT",FILM DY HD
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/932.ts
+#EXTINF:-1 group-title="KANALET SATELIT",Film Stinet
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/940.ts
+#EXTINF:-1 group-title="KANALET SATELIT",Digi Gold
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/918.ts
+#EXTINF:-1 group-title="KANALET SATELIT",T HD
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/1157.ts
+#EXTINF:-1 group-title="KANALET SATELIT",T SD
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/3453.ts
+#EXTINF:-1 group-title="KANALET SATELIT",T digitalb
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/3500.ts
+#EXTINF:-1 group-title="KANALET SATELIT",Nostalgji TV
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/7081.ts
+#EXTINF:-1 group-title="KANALET SATELIT",Fox (Digitalb)
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/4116.ts
+#EXTINF:-1 group-title="KANALET SATELIT",Fox Life shqip
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/3849.ts
+#EXTINF:-1 group-title="KANALET SATELIT",FOX Crime (Digitalb)
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/3893.ts
+#EXTINF:-1 group-title="KANALET SATELIT",Comedy Central Extra
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/4647.ts
+#EXTINF:-1 group-title="KANALET SATELIT",MTV Albania
+http://ksportiptv.com:1557/live/Hafiz/Hafiz/7994.ts
+#EXTINF:-1 group-title="KANALET SATELIT",TRT1
+http://185.234.111.229:8000/play/a00c
+#EXTINF:-1 group-title="KANALET SATELIT",ATV AVRUPA
+http://185.234.111.229:8000/play/a018
+#EXTINF:-1 group-title="KANALET SATELIT",STAR TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",SHOW TV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",SHOW MAX
+https://canlitvulusal.xyz/live/showmax/index.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",KANAL D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",FOX TV TURKEY
+https://foxtv-live-ad.ercdn.net/foxtv/playlist.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",360 TURK
+http://185.234.111.229:8000/play/a05a
+#EXTINF:-1 group-title="KANALET SATELIT",TV8
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:-1 group-title="KANALET SATELIT",TV8 INT
+http://185.234.111.229:8000/play/a01x
+#EXTINF:-1 group-title="KANALET SATELIT",TRT SPOR
+http://185.234.111.229:8000/play/a00e
+#EXTINF:-1 group-title="KANALET SATELIT",CBS
+http://livex.pop-app.live/s4n/poplive/ch313/playlist.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",NBC
+http://143.244.60.30/NBC_EAST/index.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",FOX HD
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",ESPN
+http://livex.pop-app.live/s4n/poplive/ch313/playlist.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",National Geographic
+http://livex.pop-app.live/s4n/poplive/ch217/playlist.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",Discovery Channel
+http://38.96.178.201:80/live/Discovery/index.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",CNN International
+https://d30x5vsa85tvmd.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",NBA TV
+https://tx2.nexgen.bz/NBA/index.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",NFL Network
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",MTV Live HD
+https://amg00488-foxdigital-foxsoul-stirr-qb4nf.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",VH1
+https://fuse-backstage-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",Balakania TV
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",TRT Music
+https://trtmusic.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",NR1 Turk
+https://nr1turk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",SUPERSPORT 1
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/337.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",SUPERSPORT 2
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/338.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",SUPERSPORT 3
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/339.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",SUPERSPORT 4
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/340.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",SUPERSPORT 5
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3404.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",SUPERSPORT 6
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3403.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",SUPERSPORT 7
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/3402.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",EUROSPORT 1
+http://195.154.226.186:1935/livepp7/vesplsh/playlist.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",EUROSPORT 2
+http://37.48.118.32/live/eurosport22.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDE1IDI6Mjc6NTcgQU0maGFzaF92YWx1ZT12UmN5UHh1dzVudEtEN0dadVNxWm5nPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="KANALET SATELIT",Cartoon Network
+https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/
+#EXTINF:-1 group-title="KANALET SATELIT",Nickelodeon
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u
+#EXTINF:-1 group-title="KANALET SATELIT",Disney Channel
+http://38.96.178.201/live/Disney/index.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",Boomerang
+https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=12-mp4a_98800_ind=15.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",BabyTV
+http://181.78.109.48:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",Cartoonito
+https://list.iptvcat.com/my_list/s/2d8b4d9b4951dfce66872f9a063313db.m3u8
+#EXTINF:-1 group-title="KANALET SATELIT",CBeebies
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+# ====== KANALET RADIO ======
+#EXTINF:-1 group-title="KANALET RADIO",GLAM RADIO
+https://gjirafa-video-live.gjirafa.net/gjvideo-radio/v05-4z0-nal-p34/index.m3u8
+#EXTINF:-1 group-title="KANALET RADIO",GLAM RADIO GOLD
+https://gjirafa-video-live.gjirafa.net/gjvideo-radio/bc0-7sm-66m-w0v/index.m3u8
+#EXTINF:-1 group-title="KANALET RADIO",GLAM RADIO CAFE
+https://gjirafa-video-live.gjirafa.net/gjvideo-radio/2u4-glv-m3v-7d8/index.m3u8
+#EXTINF:-1 group-title="KANALET RADIO",RADIO CLUB FM 1
+https://gjirafa-video-live.gjirafa.net/gjvideo-radio/dew-2sr-79p-upn/index.m3u8
+#EXTINF:-1 group-title="KANALET RADIO",RADIO CLUB FM 2
+https://gjirafa-video-live.gjirafa.net/gjvideo-radio/yj0-86i-x3l-5ui/index.m3u8
+#EXTINF:-1 group-title="KANALET RADIO",RADIO DUKAGJINI
+https://gjirafa-video-live.gjirafa.net/gjvideo-radio/lmd-jx9-lwm-xgf/index.m3u8
+#EXTINF:-1 group-title="KANALET RADIO",TOP ALBANIA RADIO
+https://gjirafa-video-live.gjirafa.net/gjvideo-radio/dl7-q2g-5dw-7mc/index.m3u8
+#EXTINF:-1 group-title="KANALET RADIO",PAPER RADIO ON AIR
+https://gjirafa-video-live.gjirafa.net/gjvideo-radio/g8q-v2i-3zv-efy/index.m3u8
+#EXTINF:-1 group-title="KANALET RADIO",RADIO GJAKOVA - LIVE
+https://gjirafa-video-live.gjirafa.net/gjvideo-radio/0fp-hxa-1cn-3rn/index.m3u8
+#EXTINF:-1 group-title="KANALET RADIO",RADIO PRISHTINA
+https://gjirafa-video-live.gjirafa.net/gjvideo-radio/iul-onz-ldb-kbk/index.m3u8
+#EXTINF:-1 group-title="KANALET RADIO",RADIO KOSOVA 1
+https://gjirafa-video-live.gjirafa.net/gjvideo-radio/radio-kosova-1/index.m3u8
+#EXTINF:-1 group-title="KANALET RADIO",RADIO KOSOVA 2
+https://gjirafa-video-live.gjirafa.net/gjvideo-radio/radio-kosova-2/index.m3u8
+#EXTINF:-1 group-title="KANALET RADIO",RADIO K4SHQIP
+https://gjirafa-video-live.gjirafa.net/gjvideo-radio/6t4-hmf-w0e-ks4/index.m3u8
+#EXTINF:-1 group-title="KANALET RADIO",RADIO K4SPRSKI
+https://gjirafa-video-live.gjirafa.net/gjvideo-radio/ink-au7-8xc-zjz/index.m3u8
